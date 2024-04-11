@@ -16,16 +16,26 @@ You can resolve your problem by running the following command:
 
 docker info
 
-Client: Docker Engine - Community\*
- Version:    26.0.1\*
- **Context:    default**\*
- Debug Mode: false\*
- Plugins:\*
-  buildx: Docker Buildx (Docker Inc.)\*
-    Version:  v0.13.1\*
-    Path:     /usr/libexec/docker/cli-plugins/docker-buildx\*
-  compose: Docker Compose (Docker Inc.)\*
-    Version:  v2.26.1\*
-    Path:     /usr/libexec/docker/cli-plugins/docker-compose\*
+Client: Docker Engine - Community  
+
+ Version:    26.0.1  
+
+ **Context:    default**  
+
+ Debug Mode: false  
+
+ Plugins:  
+  buildx: Docker Buildx (Docker Inc.)  
+
+    Version:  v0.13.1  
+
+    Path:     /usr/libexec/docker/cli-plugins/docker-buildx  
+
+  compose: Docker Compose (Docker Inc.)  
+
+    Version:  v2.26.1  
+
+    Path:     /usr/libexec/docker/cli-plugins/docker-compose  
+    
 
 
